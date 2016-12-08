@@ -30,10 +30,5 @@
             android:layout_height="wrap_content"
             android:id="@+id/layoutLinear_button60s" />
 
-        <Button
-            android:text="A remplacer"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/layoutLinear_aRemplir" />
     </LinearLayout>
 </RelativeLayout>
